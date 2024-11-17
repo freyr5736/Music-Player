@@ -1,0 +1,59 @@
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\Project_03_Media Player_C Sharp_28_06_24.exe.config
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\Project_03_Media Player_C Sharp_28_06_24.exe
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\Project_03_Media Player_C Sharp_28_06_24.pdb
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\Bunifu.Licensing.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\Bunifu.UI.WinForms.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\Newtonsoft.Json.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\RestSharp.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Buffers.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.CodeDom.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Memory.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Numerics.Vectors.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Text.Encodings.Web.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Text.Json.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.ValueTuple.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\Newtonsoft.Json.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\RestSharp.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Buffers.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.CodeDom.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Memory.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Numerics.Vectors.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Text.Encodings.Web.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Text.Json.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.ValueTuple.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\obj\Debug\Project_03_Media Player_C Sharp_28_06_24.csproj.AssemblyReference.cache
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\obj\Debug\Project_03_Media_Player_C_Sharp_28_06_24.Form1.resources
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\obj\Debug\Project_03_Media_Player_C_Sharp_28_06_24.Properties.Resources.resources
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\obj\Debug\Project_03_Media Player_C Sharp_28_06_24.csproj.GenerateResource.cache
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\obj\Debug\Project_03_Media Player_C Sharp_28_06_24.csproj.CoreCompileInputs.cache
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\obj\Debug\Project_.B1DE4665.Up2Date
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\obj\Debug\Project_03_Media Player_C Sharp_28_06_24.exe
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\obj\Debug\Project_03_Media Player_C Sharp_28_06_24.pdb
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\Tabulate.NET.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\NAudio.Asio.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\NAudio.Core.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\NAudio.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\NAudio.Midi.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\NAudio.Wasapi.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\NAudio.WinForms.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\NAudio.WinMM.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Security.AccessControl.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Security.Principal.Windows.dll
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\NAudio.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\NAudio.Asio.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\NAudio.Core.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\NAudio.Midi.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\NAudio.Wasapi.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\NAudio.WinForms.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\NAudio.WinMM.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Security.AccessControl.xml
+D:\Codin'\PROJECTS\Project_03_Media Player_C Sharp_28_06_24\bin\Debug\System.Security.Principal.Windows.xml
